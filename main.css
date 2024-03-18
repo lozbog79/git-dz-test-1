@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+}
+.header-1{
+    background-color: gray;
+    color: palevioletred;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+}
